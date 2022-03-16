@@ -19,14 +19,5 @@ public class CatWrapper {
         this.data = data;
     }
 
-    /*
-    This class could simply be defined as below, but the above code is what is supplied by jsonschema2pojo.com:
-
-    private List<String> data = null;
-
-    public List<String> getData() {
-        return data;
-    }
-    */
-
+ 
 }
